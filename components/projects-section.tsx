@@ -19,8 +19,8 @@ const projects: Project[] = [
     descriptionHighlight: "Grand Prize at SB Hacks XII",
     tech: "Next.js / TypeScript / MongoDB / YOLOv8 / Gemini",
     links: [
-      { href: "https://github.com/ch4nbin", icon: "github" },
-      { href: "#", icon: "external" },
+      { href: "https://github.com/BhargavJakkaraju/Lumenta", icon: "github" },
+      { href: "https://devpost.com/software/lumenta?_gl=1*1fpl3oz*_gcl_au*MTY1NDUzNzg2OC4xNzY3MDY3MzUz*_ga*ODg3MjgzMzUxLjE3NTg1ODUzNjA.*_ga_0YHJK3Y10M*czE3NjgyMzMwMzgkbzUkZzEkdDE3NjgyMzMwNDYkajUyJGwwJGgw", icon: "external" },
     ],
     bullets: [
       "Engineered an AI video surveillance platform that interprets live camera feeds and autonomously triggers actions via MCP tools winning SB Hacks XII (Grand Prize, 2nd Place) among 340+ participants.",
@@ -34,8 +34,8 @@ const projects: Project[] = [
     description: "Real-time collaborative video editor with WebGPU effects",
     tech: "Next.js / TypeScript / Go / AWS / Docker / WebGPU",
     links: [
-      { href: "https://github.com/ch4nbin", icon: "github" },
-      { href: "#", icon: "external" },
+      { href: "https://github.com/ch4nbin/Tempo", icon: "github" },
+      { href: "https://tempoedit.vercel.app/", icon: "external" },
     ],
     bullets: [
       "Developed a real-time collaborative video editor with WebGPU/WGSL supporting advanced temporal effects.",
@@ -49,7 +49,7 @@ const projects: Project[] = [
     description: "AI-powered note-taking social media platform",
     tech: "Next.js / React / TypeScript / Supabase / Grok / Gemini",
     links: [
-      { href: "https://github.com/ch4nbin", icon: "github" },
+      { href: "https://github.com/ch4nbin/NoteNest", icon: "github" },
       { href: "https://notenestapp.tech", icon: "external" },
     ],
     bullets: [
